@@ -9,3 +9,5 @@ class Leilao:
 
     def lance(self,nome,valor_lance):
         self.dicionario[nome] = valor_lance
+
+    
